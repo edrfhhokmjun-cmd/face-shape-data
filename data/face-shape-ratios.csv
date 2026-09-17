@@ -1,0 +1,8 @@
+shape,length_divided_by_cheekbone,forehead_divided_by_cheekbone,jaw_divided_by_cheekbone,tolerance_on_length,tolerance_on_widths,notes
+Oval,1.45,0.86,0.76,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Round,1.18,0.90,0.86,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Square,1.22,0.97,0.95,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Heart,1.42,1.00,0.70,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Diamond,1.50,0.74,0.72,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Oblong,1.75,0.88,0.84,0.30,0.12,Target profile used by the detector on faceshapehub.com
+Triangle,1.32,0.80,1.02,0.30,0.12,Target profile used by the detector on faceshapehub.com

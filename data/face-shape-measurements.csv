@@ -1,0 +1,5 @@
+measurement,landmark_start,landmark_end,landmark_description,reported_as
+Forehead width,127,356,temple to temple,percentage of face length
+Cheekbone width,234,454,widest point of the face,percentage of face length
+Jaw width,172,397,jaw corner to jaw corner,percentage of face length
+Face length,10,152,top of forehead to bottom of chin,100 by definition
