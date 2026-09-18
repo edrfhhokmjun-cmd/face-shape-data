@@ -56,4 +56,3 @@ same face.
 > Target ratio profiles and tolerances published by Face Shape Hub (faceshapehub.com/data/), retrieved [date].
 
 These files are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). See LICENSE.
-page on the site if you want to republish them.
