@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these reference tables, please cite them as below."
+title: "Face shape ratio profiles and landmark measurements"
+abstract: >-
+  The reference data behind a browser-only face shape detector: the seven target
+  ratio profiles with their tolerances, the four landmark measurements and the
+  landmark index list, plus a printable tape-measure worksheet. Every threshold
+  is the site's own published heuristic value rather than a published standard.
+type: dataset
+authors:
+  - family-names: Li
+    given-names: Guanhua
+    name-particle: ""
+    affiliation: "Face Shape Hub"
+    website: "https://faceshapehub.com/"
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+url: "https://faceshapehub.com/data/"
+repository-code: "https://github.com/edrfhhokmjun-cmd/face-shape-data"
+keywords:
+  - face shape
+  - facial proportions
+  - golden ratio
+  - facial landmarks
+date-released: "2026-09-18"
+version: "1.0.0"
