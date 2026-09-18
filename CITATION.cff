@@ -24,3 +24,8 @@ keywords:
   - facial landmarks
 date-released: "2026-09-18"
 version: "1.0.0"
+doi: 10.5281/zenodo.22823412
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22823411
+    description: "Concept DOI - always points to the latest version of this dataset"

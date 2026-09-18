@@ -53,6 +53,11 @@ same face.
 
 ## Citation
 
+Archived on Zenodo:
+
+- Version 1.0.0: https://doi.org/10.5281/zenodo.22823412
+- All versions (concept DOI, version-independent): https://doi.org/10.5281/zenodo.22823411
+
 > Target ratio profiles and tolerances published by Face Shape Hub (faceshapehub.com/data/), retrieved [date].
 
 These files are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). See LICENSE.
