@@ -17,7 +17,7 @@ anyone can check them, copy them or argue with them.
 
 ## The seven target profiles
 
-| Shape | length ? cheekbone | forehead ? cheekbone | jaw ? cheekbone |
+| Shape | length / cheekbone | forehead / cheekbone | jaw / cheekbone |
 | --- | --- | --- | --- |
 | Oval | 1.45 | 0.86 | 0.76 |
 | Round | 1.18 | 0.90 | 0.86 |
@@ -37,7 +37,7 @@ same face.
    photo is never uploaded.
 2. Four distances are read off those points: forehead width, cheekbone width, jaw width and
    face length.
-3. All four are expressed as a percentage of face length, fixed at 100 ? relative proportions
+3. All four are expressed as a percentage of face length, fixed at 100 - relative proportions
    of one photo, not millimetres or inches.
 4. Three ratios follow and are compared against the seven profiles above; the closest wins.
 
