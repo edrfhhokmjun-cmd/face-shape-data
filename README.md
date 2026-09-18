@@ -1,7 +1,7 @@
 # Face shape ratio profiles and landmark measurements
 
 Reference data behind the free, browser-only face shape detector at
-[faceshapehub.com](https://faceshapehub.com/) ? the four landmark measurements, the seven
+[faceshapehub.com](https://faceshapehub.com/) - the four landmark measurements, the seven
 target ratio profiles, and the tolerances that decide which profile a face matches.
 
 Nothing here is a black box: the detector publishes the numbers it compares against, so
@@ -27,7 +27,7 @@ anyone can check them, copy them or argue with them.
 | Oblong | 1.75 | 0.88 | 0.84 |
 | Triangle | 1.32 | 0.80 | 1.02 |
 
-A ratio may sit up to 0.30 (length ? cheekbone) or 0.12 (the two width ratios) away from a
+A ratio may sit up to 0.30 (length / cheekbone) or 0.12 (the two width ratios) away from a
 profile and still count as a match, which is why two shapes can score close together on the
 same face.
 
@@ -55,5 +55,5 @@ same face.
 
 > Target ratio profiles and tolerances published by Face Shape Hub (faceshapehub.com/data/), retrieved [date].
 
-No reuse licence has been chosen for these files yet; open an issue here or use the contact
+These files are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). See LICENSE.
 page on the site if you want to republish them.
